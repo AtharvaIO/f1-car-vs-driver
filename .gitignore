@@ -1,0 +1,4 @@
+__pycache__/
+data/cache/
+data/processed/*.npz
+tempCodeRunnerFile.py
